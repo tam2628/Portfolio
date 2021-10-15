@@ -1,0 +1,14 @@
+.navbar-brand {
+  text-transform: lowercase !important;
+}
+
+.navbar-custom .navbar-nav .nav-item .nav-link {
+  text-transform: none !important;
+  font-size: .8rem;
+  font-weight: 700;
+  letter-spacing: .1rem;
+}
+
+.nav-link {
+}
+
